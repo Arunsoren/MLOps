@@ -9,3 +9,5 @@ facets tool- https://pair-code.github.io/facets/
 embedding Projector - http://projector.tensorflow.org/
 
 encoding feature - https://developers.google.com/machine-learning/crash-course/feature-crosses/encoding-nonlinearity
+
+preprocess for ml - https://ai.googleblog.com/2017/02/preprocessing-for-machine-learning-with.html
