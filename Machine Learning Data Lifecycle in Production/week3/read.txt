@@ -1,4 +1,19 @@
 week3 materal:
 
+Data Versoining:
+     1. https://dvc.org/
+     2. https://git-lfs.github.com/
 
+ML MetaData(ML MD):
+     1. https://www.tensorflow.org/tfx/guide/mlmd#data_model
+     2. https://www.tensorflow.org/tfx/guide/understanding_custom_components
+     
+Chicago taxi trips data set:
+     1. https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew/data
+     2. https://archive.ics.uci.edu/ml/datasets/covertype
+     
+Feast:
+     1. https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning
+     2. https://github.com/feast-dev/feast
+     3. https://www.gojek.io/blog/feast-bridging-ml-models-and-data
 
