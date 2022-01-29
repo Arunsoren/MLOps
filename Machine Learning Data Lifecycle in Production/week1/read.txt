@@ -1,1 +1,28 @@
-Data part Second phase of the Pipeline.
+Software 2.0:
+          - https://karpathy.medium.com/software-2-0-a64152b37c35
+          
+PAIR(people + AI):
+          - Data Collection + Evaluation
+          - https://pair.withgoogle.com/chapter/data-collection/
+
+Talk by Fernanda Viegas of(PAIR):
+          - Data Visualization for Machine Learning.
+          - https://www.youtube.com/watch?v=ulLx2iPTIcs&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=30
+          
+Rules of ML :
+          - https://developers.google.com/machine-learning/guides/rules-of-ml
+          
+Bias in Dataset(image sof marriage):
+          - https://ai.googleblog.com/2018/09/introducing-inclusive-images-competition.html
+          
+Tensorflow Data Validation(TFDV):
+          - https://blog.tensorflow.org/2018/09/introducing-tensorflow-data-validation.html
+          
+Google Cloud Logging:
+          - https://cloud.google.com/logging/
+          
+Chebyshev distance:
+          - https://en.wikipedia.org/wiki/Chebyshev_distance
+          
+          
+          
