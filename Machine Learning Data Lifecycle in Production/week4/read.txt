@@ -1,1 +1,25 @@
-Semi- Supervised Learning-
+SNORKEl : https://snorkel.ai/
+          - Stanford 2016
+          - building & managing Datset without Manual Labelling.
+          - Auto-models, cleaning, INtegrate the results training data
+          - Also offers Data Augmentation and Slicing
+          
+Weak Supervision :
+          - https://dawn.cs.stanford.edu/2017/07/16/weak-supervision/
+          
+Auto-Augment :
+          - https://ai.googleblog.com/2018/06/improving-deep-learning-performance.html
+          
+Unsupervised Data Augmentation: 
+          - https://github.com/google-research/uda
+          
+Images in Tensorflow:
+          - https://www.tensorflow.org/lite/examples/image_classification/overview
+          
+weather Dataset Link:
+          - https://www.bgc-jena.mpg.de/wetter/
+CIFAR- 10 Dataset:
+          - https://www.cs.toronto.edu/~kriz/cifar.html
+          
+Human Acivity Recognition(HAR):
+          - https://www.cis.fordham.edu/wisdm/dataset.php
