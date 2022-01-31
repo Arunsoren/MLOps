@@ -1,5 +1,22 @@
 week3 materal:
 
+ExampleGen - 
+
+StatisticsGen-
+
+SchemaGen -
+
+Curating a Schema(uri) - getting the schema uri from the output of SchemaGen
+
+Schema  Environment-
+
+ImportSchemaGen - 
+
+ExampleVaidator -
+
+ML data - artifacts, execution , context
+
+
 Data Versoining:
      1. https://dvc.org/
      2. https://git-lfs.github.com/
