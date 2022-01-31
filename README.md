@@ -3,7 +3,7 @@ https://www.coursera.org/specializations/machine-learning-engineering-for-produc
 
 Coursera MLOps material and my notes for reference
 
-
+![](mlops.jpg)
 
 Understanding TFX components:
                     - https://www.tensorflow.org/tfx/guide/understanding_custom_components
