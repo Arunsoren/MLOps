@@ -1,1 +1,15 @@
 Modelling part in the production pipeline
+
+Keras Tuner:
+
+TF tuner:
+
+Neural Architecture Search(NAS): https://arxiv.org/pdf/1808.05377.pdf(NAS a Survey)
+  
+Bayesian Optimization : https://distill.pub/2020/bayesian-optimization/       
+                                      
+NAS with RL: https://arxiv.org/pdf/1611.01578.pdf
+
+Progressive NAS:  https://arxiv.org/pdf/1712.00559.pdf
+
+Network Morphism: https://arxiv.org/abs/1603.01670
