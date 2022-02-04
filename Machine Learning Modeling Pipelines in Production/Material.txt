@@ -13,3 +13,8 @@ NAS with RL: https://arxiv.org/pdf/1611.01578.pdf
 Progressive NAS:  https://arxiv.org/pdf/1712.00559.pdf
 
 Network Morphism: https://arxiv.org/abs/1603.01670
+
+AotoML: 
+       Amazon SageMaker Autopilot: https://aws.amazon.com/sagemaker/autopilot/
+       Microsoft Azure Automated Machine Learning: https://azure.microsoft.com/en-in/services/machine-learning/automatedml/
+       Google Cloud AutoML: https://cloud.google.com/automl
