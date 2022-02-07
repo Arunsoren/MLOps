@@ -15,5 +15,9 @@ Understanding TFX components:
                     
 Google Quick labs :
                     - https://www.cloudskillsboost.google/focuses/2794?parent=catalog
+                    
 Google Cloud API Guide:
                     - https://cloud.google.com/apis/design/
+                    
+Intro to ML: Image Processing: 
+                              - https://www.cloudskillsboost.google/quests/85
