@@ -1,0 +1,19 @@
+Classify Images of Clouds in the Cloud with AutoML Vision:    
+                                                          - https://www.qwiklabs.com/focuses/8406?parent=catalog
+                                                          - https://cloud.google.com/sdk/gcloud(gcloud command line tool)
+                                                          
+                             
+1. setup Google Console
+2. Setup the Cloud AutoML API
+3. activate the shell
+4. Export project_id, export Quicklabs, AutoML permission
+5. Creating a Storage Bucket.
+
+6. Uploading Tranining Images to Cloud Storage
+7. Creating a Dataset.
+8. Inspect Cloud images Dataset.
+
+9. Training Your Model
+10. Evaluate your Model(Confusion Matrix)
+11. Deploy your Model
+12. Generate Prediction
