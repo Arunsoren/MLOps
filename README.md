@@ -12,3 +12,6 @@ Coursera MLOps material and my notes for reference
 
 Understanding TFX components:
                     - https://www.tensorflow.org/tfx/guide/understanding_custom_components
+                    
+Google Quick labs :
+                    - https://www.cloudskillsboost.google/focuses/2794?parent=catalog
